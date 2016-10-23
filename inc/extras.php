@@ -207,7 +207,7 @@ endif;
  */
 function slimpy_footer_info() {
 global $slimpy_footer_info;
-  printf( esc_html__( 'Theme by %1$s Powered by %2$s', 'slimpy' ) , '<a href="http://www.tripwiremagazine.com/" target="_blank">Colorlib</a>', '<a href="http://wordpress.org/" target="_blank">WordPress</a>');
+  printf( esc_html__( 'Theme by %1$s Powered by %2$s', 'slimpy' ) , '<a href="http://www.tripwiremagazine.com/" target="_blank">Tripwire Magazine</a>', '<a href="http://wordpress.org/" target="_blank">WordPress</a>');
 }
 
 
@@ -341,11 +341,11 @@ function slimpy_options_display_sidebar() { ?>
             <div class="tw-follow" ><a href="https://twitter.com/tripwiremag" class="twitter-follow-button" data-show-count="false">Follow @tripwiremag</a></div>
           </div>
             <p><b><a href="<?php echo esc_url( 'http://www.tripwiremagazine.com/wp/support/slimpy' ); ?>"><?php esc_html_e('Slimpy Documentation','slimpy'); ?></a></b></p>
-            <p><?php _e('The best way to contact us with <b>support questions</b> and <b>bug reports</b> is via','slimpy') ?> <a href="<?php echo esc_url( 'http://www.tripwiremagazine.com/wp/forums' ); ?>"><?php esc_html_e('Colorlib support forum','slimpy') ?></a>.</p>
+            <p><?php _e('The best way to contact us with <b>support questions</b> and <b>bug reports</b> is via','slimpy') ?> <a href="<?php echo esc_url( 'http://www.tripwiremagazine.com/wp/forums' ); ?>"><?php esc_html_e('the support forum','slimpy') ?></a>.</p>
             <p><?php esc_html_e('If you like this theme, I\'d appreciate any of the following:','slimpy') ?></p>
             <ul>
               <li><a class="button" href="<?php echo esc_url( 'http://wordpress.org/support/view/theme-reviews/slimpy?filter=5' ); ?>" title="<?php esc_attr_e('Rate this Theme', 'slimpy'); ?>" target="_blank"><?php printf(esc_html__('Rate this Theme','slimpy')); ?></a></li>
-              <li><a class="button" href="<?php echo esc_url( 'http://www.facebook.com/tripwiremagazine' ); ?>" title="Like Colorlib on Facebook" target="_blank"><?php printf(esc_html__('Like on Facebook','slimpy')); ?></a></li>
+              <li><a class="button" href="<?php echo esc_url( 'http://www.facebook.com/tripwiremagazine' ); ?>" title="Like Tripwire Magazine on Facebook" target="_blank"><?php printf(esc_html__('Like on Facebook','slimpy')); ?></a></li>
               <li><a class="button" href="<?php echo esc_url( 'http://twitter.com/tripwiremag/' ); ?>" title="Follow Colrolib on Twitter" target="_blank"><?php printf(esc_html__('Follow on Twitter','slimpy')); ?></a></li>
             </ul>
         </div>

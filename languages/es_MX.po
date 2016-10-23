@@ -153,8 +153,8 @@ msgstr ""
 "fallo</b>, la mejor manera es, contactarnos en "
 
 #: ../inc/extras.php:341 ../inc/customizer.php:738
-msgid "Colorlib support forum"
-msgstr "Foro de soporte de Colorlib"
+msgid "Tripwire Magazine support forum"
+msgstr "Foro de soporte de Tripwire Magazine"
 
 #: ../inc/extras.php:342 ../inc/customizer.php:739
 msgid "If you like this theme, I'd appreciate any of the following:"
@@ -588,8 +588,8 @@ msgstr ""
 "o desactivar desde el personalizador de wordpress.\n"
 
 #. Author of the theme
-msgid "Colorlib"
-msgstr "Colorlib"
+msgid "Tripwire Magazine"
+msgstr "Tripwire Magazine"
 
 #. Author URI of the theme
 msgid "http://www.tripwiremagazine.com/"

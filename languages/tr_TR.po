@@ -535,8 +535,8 @@ msgid ""
 msgstr ""
 
 #: ../inc/customizer.php:702 ../inc/extras.php:390
-msgid "Colorlib support forum"
-msgstr "Colorlib destek forumu"
+msgid "Tripwire Magazine support forum"
+msgstr "Tripwire Magazine destek forumu"
 
 #: ../inc/customizer.php:703 ../inc/extras.php:391
 msgid "If you like this theme, I'd appreciate any of the following:"

@@ -550,7 +550,7 @@ msgstr ""
 "に連絡すること</b>です"
 
 #: ../inc/customizer.php:702 ../inc/extras.php:390
-msgid "Colorlib support forum"
+msgid "Tripwire Magazine support forum"
 msgstr "テーマ開発者　サポートフォーラム"
 
 #: ../inc/customizer.php:703 ../inc/extras.php:391

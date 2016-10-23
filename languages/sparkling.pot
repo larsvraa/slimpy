@@ -484,7 +484,7 @@ msgid "The best way to contact us with <b>support questions</b> and <b>bug repor
 msgstr ""
 
 #: ../inc/customizer.php:738 ../inc/extras.php:341
-msgid "Colorlib support forum"
+msgid "Tripwire Magazine support forum"
 msgstr ""
 
 #: ../inc/customizer.php:739 ../inc/extras.php:342

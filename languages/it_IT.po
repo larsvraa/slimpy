@@ -555,8 +555,8 @@ msgstr ""
 "<b>segnalazioni</b> è via"
 
 #: ../inc/customizer.php:702 ../inc/extras.php:390
-msgid "Colorlib support forum"
-msgstr "Forum di supporto Colorlib"
+msgid "Tripwire Magazine support forum"
+msgstr "Forum di supporto Tripwire Magazine"
 
 #: ../inc/customizer.php:703 ../inc/extras.php:391
 msgid "If you like this theme, I'd appreciate any of the following:"

@@ -552,8 +552,8 @@ msgstr ""
 "об ошибках</b>, используйте"
 
 #: ../inc/customizer.php:702 ../inc/extras.php:390
-msgid "Colorlib support forum"
-msgstr "Форум поддержки Colorlib"
+msgid "Tripwire Magazine support forum"
+msgstr "Форум поддержки Tripwire Magazine"
 
 #: ../inc/customizer.php:703 ../inc/extras.php:391
 msgid "If you like this theme, I'd appreciate any of the following:"

@@ -1216,9 +1216,9 @@ msgstr ""
 
 #: ../inc/customizer.php:738 ../inc/extras.php:341
 
-msgid "Colorlib support forum"
+msgid "Tripwire Magazine support forum"
 
-msgstr "Colorlib pagalbos forumą"
+msgstr "Tripwire Magazine pagalbos forumą"
 
 
 
@@ -1572,9 +1572,9 @@ msgstr ""
 
 #. Author of the theme
 
-msgid "Colorlib"
+msgid "Tripwire Magazine"
 
-msgstr "Colorlib"
+msgstr "Tripwire Magazine"
 
 
 

@@ -745,7 +745,7 @@ class Slimpy_Important_Links extends WP_Customize_Control {
               <div class="tw-follow" ><a href="https://twitter.com/tripwiremag" class="twitter-follow-button" data-show-count="false">Follow @tripwiremag</a></div>
             </div>
             <p><b><a href="<?php echo esc_url( 'http://www.tripwiremagazine.com/wp/support/slimpy' ); ?>"><?php esc_html_e('Slimpy Documentation','slimpy'); ?></a></b></p>
-            <p><?php _e('The best way to contact us with <b>support questions</b> and <b>bug reports</b> is via','slimpy') ?> <a href="<?php echo esc_url( 'http://www.tripwiremagazine.com/wp/forums' ); ?>"><?php esc_html_e('Colorlib support forum','slimpy') ?></a>.</p>
+            <p><?php _e('The best way to contact us with <b>support questions</b> and <b>bug reports</b> is via','slimpy') ?> <a href="<?php echo esc_url( 'http://www.tripwiremagazine.com/wp/forums' ); ?>"><?php esc_html_e('the support forum','slimpy') ?></a>.</p>
             <p><?php esc_html_e('If you like this theme, I\'d appreciate any of the following:','slimpy') ?></p>
             <ul>
               <li><a class="button" href="<?php echo esc_url( 'http://wordpress.org/support/view/theme-reviews/slimpy?filter=5' ); ?>" title="<?php esc_attr_e('Rate this Theme', 'slimpy'); ?>" target="_blank"><?php printf(esc_html__('Rate this Theme','slimpy')); ?></a></li>

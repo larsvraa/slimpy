@@ -557,8 +557,8 @@ msgid ""
 msgstr "Najlepsza metoda aby się z nami skontaktować jest przez"
 
 #: ../inc/customizer.php:702 ../inc/extras.php:390
-msgid "Colorlib support forum"
-msgstr "Colorlib forum wsparcia"
+msgid "Tripwire Magazine support forum"
+msgstr "Tripwire Magazine forum wsparcia"
 
 #: ../inc/customizer.php:703 ../inc/extras.php:391
 msgid "If you like this theme, I'd appreciate any of the following:"

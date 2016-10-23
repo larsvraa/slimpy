@@ -578,8 +578,8 @@ msgstr ""
 "kontaktieren ist via"
 
 #: inc/customizer.php:738 inc/extras.php:341
-msgid "Colorlib support forum"
-msgstr "Colorlib Support Forum"
+msgid "Tripwire Magazine support forum"
+msgstr "Tripwire Magazine Support Forum"
 
 #: inc/customizer.php:739 inc/extras.php:342
 msgid "If you like this theme, I'd appreciate any of the following:"

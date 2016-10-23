@@ -561,8 +561,8 @@ msgstr ""
 "soporte </b> y <b> informes de errores </b> es a través de"
 
 #: ../inc/customizer.php:738 ../inc/extras.php:341
-msgid "Colorlib support forum"
-msgstr "Foro de soporte Colorlib"
+msgid "Tripwire Magazine support forum"
+msgstr "Foro de soporte Tripwire Magazine"
 
 #: ../inc/customizer.php:739 ../inc/extras.php:342
 msgid "If you like this theme, I'd appreciate any of the following:"

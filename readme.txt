@@ -32,7 +32,7 @@ Slimpy is a clean minimal and responsive WordPress theme well suited for travel,
 
 
 
-For questions, comments or bug reports, visit Colorlib support forum (http://www.tripwiremagazine.com/wp/forums).
+For questions, comments or bug reports, visit the support forum (http://www.tripwiremagazine.com/wp/forums).
 
 /*========= Installation =========*/
 
